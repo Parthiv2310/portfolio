@@ -26,7 +26,7 @@ const Home = () => {
                 variant="outline" 
                 size="lg" 
                 className="uppercase flex items-center gap-2"
-              >
+              > 
                 <a href="https://drive.google.com/file/d/1s_1gLogs94m9muoSxBigmevoS5mf88MU/view?usp=drive_link" target="_blank">
                   Download CV
                 </a>
