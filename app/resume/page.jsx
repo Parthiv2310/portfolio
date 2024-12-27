@@ -58,17 +58,17 @@ const education = {
         {
             institution: "VIT Bhopal University, Bhopal, Madhya Pradesh, India",
             duration: " 2021 - Present ",
-            grade: "7.96",
+            grade: "8.12",
         },
         {
             institution: "Kendra Vidyalaya Vikaspuri, New Delhi, India",
             duration: " 2019-2021 ",
-            grade: "76.00%",
+            grade: "75.40%",
         },
         {
             institution: "Kendra Vidyalaya Vikaspuri, New Delhi, India",
             duration: " 2009-2019 ",
-            grade: "75.50%",
+            grade: "76.00%",
         },
     ]
 };
