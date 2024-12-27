@@ -7,21 +7,21 @@ import Image from "next/image"; // Import Image component
 
 // Use the projects data with images
 const projects = [
-  {
+    {
     num: '01',
-    title: 'Stock Explorer',
-    description:
-      'A real-time web app built with data scraped from Wikipedia, showcasing S&P 500 companies and their stock details. Explore companies by sector, sort them, and download the data in CSV format for future use.',
-    href: 'https://github.com/Parthiv2310/Stock-and-Price-Explorer',
-    image: "/assets/works/stocks.jpeg",
-  },
-  {
-    num: '02',
     title: 'Futuristic Interface',
     description:
       'An AI-powered search engine leveraging advanced language models and vector databases. It integrates multiple search engines for more accurate and relevant results.',
     href: 'https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE',
     image: "/assets/works/futuristic.jpg",
+  },
+  {
+    num: '02',
+    title: 'Stock Explorer',
+    description:
+      'A real-time web app built with data scraped from Wikipedia, showcasing S&P 500 companies and their stock details. Explore companies by sector, sort them, and download the data in CSV format for future use.',
+    href: 'https://github.com/Parthiv2310/Stock-and-Price-Explorer',
+    image: "/assets/works/stocks.jpeg",
   },
   {
     num: '03',
@@ -132,16 +132,6 @@ import Image from "next/image";
 const projects = [
   {
     num: '01',
-    category: 'Stocks',
-    title: 'Stock and Price Explorer',
-    description: 'A real-time web app built with data scraped from Wikipedia, showcasing S&P 500 companies and their stock details. Explore companies by sector, sort them, and download the data in CSV format for future use.',
-    stack: [{name: 'Python'}],
-    live: '',
-    image: "/assets/works/stocks.jpeg",
-    github: "https://github.com/Parthiv2310/Stock-and-Price-Explorer",
-  },
-  {
-    num: '02',
     category: 'Search Interface',
     title: 'Futuristic Search Interface',
     description: 'This project is an AI-powered search engine that leverages advanced language models and efficient vector databases to deliver accurate and relevant search results. It integrates various search engines to enhance the search experience.',
@@ -149,6 +139,16 @@ const projects = [
     live: '',
     image: "/assets/works/futuristic.jpeg",
     github: "https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE",
+  },
+  {
+    num: '02',
+    category: 'Stocks',
+    title: 'Stock and Price Explorer',
+    description: 'A real-time web app built with data scraped from Wikipedia, showcasing S&P 500 companies and their stock details. Explore companies by sector, sort them, and download the data in CSV format for future use.',
+    stack: [{name: 'Python'}],
+    live: '',
+    image: "/assets/works/stocks.jpeg",
+    github: "https://github.com/Parthiv2310/Stock-and-Price-Explorer",
   },
   {
     num: '03',
