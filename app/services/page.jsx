@@ -10,17 +10,17 @@ const services = [
     description: "I have extensive experience in web development, particularly using React for building dynamic user interfaces. My projects have involved creating responsive and interactive web applications, utilizing backend technologies like Node.js and Express, and managing data with MongoDB. I focus on implementing best practices, including version control with Git, ensuring code maintainability, and optimizing performance for a seamless user experience.",
     href: "https://github.com/Parthiv2310/EXPENSE-TRACKER",
   },
-  {
+    {
     num: '02',
-    title: 'UI/UX Design',
-    description: "In my UI/UX design process, I leverage Figma to create intuitive and visually appealing interfaces. I am skilled in designing wireframes, prototypes, and high-fidelity mockups that reflect user needs and enhance usability. My approach incorporates user feedback and usability testing to iterate on designs, ensuring that the final product aligns with user expectations while maintaining aesthetic appeal.",
-    href: "https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE",
-  },
-  {
-    num: '03',
     title: 'AI/ML',
     description: "I have a strong foundation in AI and machine learning, having developed projects that utilize algorithms for predictive modeling and data analysis. I focus on integrating machine learning models into applications to solve real-world problems, such as crop disease prediction and healthcare management. My knowledge includes working with frameworks like TensorFlow and scikit-learn, as well as applying techniques like supervised and unsupervised learning to extract insights from data.",
     href: "https://github.com/Parthiv2310/Stock-and-Price-Explorer",
+  },
+  {
+    num: '03',
+    title: 'UI/UX Design',
+    description: "In my UI/UX design process, I leverage Figma to create intuitive and visually appealing interfaces. I am skilled in designing wireframes, prototypes, and high-fidelity mockups that reflect user needs and enhance usability. My approach incorporates user feedback and usability testing to iterate on designs, ensuring that the final product aligns with user expectations while maintaining aesthetic appeal.",
+    href: "https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE",
   },
   {
     num: '04',
