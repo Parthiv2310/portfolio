@@ -14,19 +14,19 @@ const services = [
     num: '02',
     title: 'AI/ML',
     description: "I have a strong foundation in AI and machine learning, having developed projects that utilize algorithms for predictive modeling and data analysis. I focus on integrating machine learning models into applications to solve real-world problems, such as crop disease prediction and healthcare management. My knowledge includes working with frameworks like TensorFlow and scikit-learn, as well as applying techniques like supervised and unsupervised learning to extract insights from data.",
-    href: "https://github.com/Parthiv2310/Stock-and-Price-Explorer",
+    href: "https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE",
   },
   {
     num: '03',
     title: 'UI/UX Design',
     description: "In my UI/UX design process, I leverage Figma to create intuitive and visually appealing interfaces. I am skilled in designing wireframes, prototypes, and high-fidelity mockups that reflect user needs and enhance usability. My approach incorporates user feedback and usability testing to iterate on designs, ensuring that the final product aligns with user expectations while maintaining aesthetic appeal.",
-    href: "https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE",
+    href: "https://github.com/Parthiv2310/Stock-and-Price-Explorer",
   },
   {
     num: '04',
-    title: 'Java Development',
+    title: 'Data Structure With Java',
     description: "Java is a popular programming language used to create all sorts of applications, from web and mobile apps to large enterprise systems. In my projects, I’ve built reliable and efficient software using Java, often with helpful tools that make the development process smoother. I focus on creating user-friendly features and ensuring everything runs smoothly by testing my code thoroughly. My work also involves connecting applications to databases to store and manage data effectively.",
-    href: "",
+    href: "https://leetcode.com/u/Parthiv2310/",
   },
 ]
 
