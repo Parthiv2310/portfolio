@@ -4,7 +4,7 @@ import CountUp from "react-countup";
 
 const stats = [
     {
-        num: 500+,
+        num: 500+,                        
         text: "Problems Solved", 
     },
     {
