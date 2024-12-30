@@ -25,7 +25,7 @@ const services = [
   {
     num: '04',
     title: 'Data Structure With Java',
-    description: "Java is a popular programming language used to create all sorts of applications, from web and mobile apps to large enterprise systems. In my projects, I’ve built reliable and efficient software using Java, often with helpful tools that make the development process smoother. I focus on creating user-friendly features and ensuring everything runs smoothly by testing my code thoroughly. My work also involves connecting applications to databases to store and manage data effectively.",
+    description: "I have honed my problem-solving skills by solving numerous challenging problems on LeetCode using Java. Leveraging my strong foundation in data structures such as arrays, string, linked lists and stacks, I have tackled a variety of algorithmic challenges, including dynamic programming, recursion, and backtracking. This hands-on experience has enhanced my coding proficiency and improved my ability to write optimized and efficient solutions for real-world problems.",
     href: "https://leetcode.com/u/Parthiv2310/",
   },
 ]
