@@ -9,7 +9,7 @@ const Header = () => {
             {/* logo */}
             <Link href='/'>
                 <h1 className="text-4xl font-semibold">
-                    Parthiv<span className="text-accent">.</span>
+                    Parthiv<span className="text-accent"></span>
                 </h1>
             </Link>
             {/* calling desktop view of navbar inside the div of Header also hire me button */}
