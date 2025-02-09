@@ -58,7 +58,7 @@ const education = {
         {
             institution: "VIT Bhopal University, Bhopal, Madhya Pradesh, India",
             duration: " 2021 - Present ",
-            grade: "8.12",
+            grade: "8.15",
         },
         {
             institution: "Kendra Vidyalaya Vikaspuri, New Delhi, India",
