@@ -27,7 +27,7 @@ const Home = () => {
                 size="lg" 
                 className="uppercase flex items-center gap-2"
               > 
-                <a href="https://drive.google.com/file/d/1s_1gLogs94m9muoSxBigmevoS5mf88MU/view?usp=drive_link" target="_blank">
+                <a href="https://drive.google.com/file/d/1s01d_oMM_nAcJj-utPV8BtKTULwm8CXU/view?usp=sharing" target="_blank">
                   Download CV
                 </a>
                 <FiDownload className="text-xl"/>
